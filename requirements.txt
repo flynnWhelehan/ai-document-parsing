@@ -1,7 +1,4 @@
-# Core dependencies for local testing
-transformers
-torch
-
-# For future API server?
-# fastapi
-# uvicorn
+docling_core==2.23.3
+pdf2image==1.17.0
+torch==2.6.0+cu118
+transformers==4.50.0

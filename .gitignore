@@ -1,0 +1,4 @@
+examples/test_files/
+models/smol_docling/
+__pycache__/
+*.py[cod]
