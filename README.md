@@ -35,4 +35,6 @@ This section will provide a user manual when the project matures.
 For now:
 ```bash
 pip install -r requirements.txt
-python examples/run_smol.py
+Run models/download_smol_docling.py
+Run examples/smol_docling/run_smol_docling
+Assign directory variables to match paths
