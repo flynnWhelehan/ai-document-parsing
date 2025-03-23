@@ -1,0 +1,7 @@
+# Core dependencies for local testing
+transformers
+torch
+
+# For future API server?
+# fastapi
+# uvicorn
